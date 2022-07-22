@@ -1,0 +1,3 @@
+this is file2.
+
+The changes has been made to the file2  
