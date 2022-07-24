@@ -1,2 +1,1 @@
-d
-his is new text file to check the pull request.: 
+I have deleted all the chage request to from text1
